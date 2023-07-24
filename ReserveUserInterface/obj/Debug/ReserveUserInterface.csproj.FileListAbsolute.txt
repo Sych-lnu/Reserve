@@ -1,0 +1,14 @@
+D:\C# projects\ReserveUserInterface\bin\Debug\ReserveUserInterface.exe.config
+D:\C# projects\ReserveUserInterface\bin\Debug\ReserveUserInterface.exe
+D:\C# projects\ReserveUserInterface\bin\Debug\ReserveUserInterface.pdb
+D:\C# projects\ReserveUserInterface\bin\Debug\ReserveProject.dll
+D:\C# projects\ReserveUserInterface\bin\Debug\ReserveProject.pdb
+D:\C# projects\ReserveUserInterface\obj\Debug\ReserveUserInterface.csproj.AssemblyReference.cache
+D:\C# projects\ReserveUserInterface\obj\Debug\ReserveUserInterface.csproj.SuggestedBindingRedirects.cache
+D:\C# projects\ReserveUserInterface\obj\Debug\ReserveUserInterface.Properties.Resources.resources
+D:\C# projects\ReserveUserInterface\obj\Debug\ReserveUserInterface.csproj.GenerateResource.cache
+D:\C# projects\ReserveUserInterface\obj\Debug\ReserveUserInterface.csproj.CoreCompileInputs.cache
+D:\C# projects\ReserveUserInterface\obj\Debug\ReserveUserInterface.csproj.CopyComplete
+D:\C# projects\ReserveUserInterface\obj\Debug\ReserveUserInterface.exe
+D:\C# projects\ReserveUserInterface\obj\Debug\ReserveUserInterface.pdb
+D:\C# projects\ReserveUserInterface\obj\Debug\ReserveProject.UserForm.resources
