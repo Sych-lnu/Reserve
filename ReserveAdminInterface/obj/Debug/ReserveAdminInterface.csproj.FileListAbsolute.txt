@@ -1,0 +1,14 @@
+D:\C# projects\ReserveAdminInterface\obj\Debug\ReserveAdminInterface.csproj.AssemblyReference.cache
+D:\C# projects\ReserveAdminInterface\obj\Debug\ReserveAdminInterface.csproj.SuggestedBindingRedirects.cache
+D:\C# projects\ReserveAdminInterface\obj\Debug\ReserveAdminInterface.Properties.Resources.resources
+D:\C# projects\ReserveAdminInterface\obj\Debug\ReserveProject.AdminForm.resources
+D:\C# projects\ReserveAdminInterface\obj\Debug\ReserveAdminInterface.csproj.GenerateResource.cache
+D:\C# projects\ReserveAdminInterface\obj\Debug\ReserveAdminInterface.csproj.CoreCompileInputs.cache
+D:\C# projects\ReserveAdminInterface\bin\Debug\ReserveAdminInterface.exe.config
+D:\C# projects\ReserveAdminInterface\bin\Debug\ReserveAdminInterface.exe
+D:\C# projects\ReserveAdminInterface\bin\Debug\ReserveAdminInterface.pdb
+D:\C# projects\ReserveAdminInterface\bin\Debug\ReserveProject.dll
+D:\C# projects\ReserveAdminInterface\bin\Debug\ReserveProject.pdb
+D:\C# projects\ReserveAdminInterface\obj\Debug\ReserveAdminInterface.csproj.CopyComplete
+D:\C# projects\ReserveAdminInterface\obj\Debug\ReserveAdminInterface.exe
+D:\C# projects\ReserveAdminInterface\obj\Debug\ReserveAdminInterface.pdb
