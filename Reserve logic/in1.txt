@@ -1,0 +1,3 @@
+Kyiv
+deer,24
+rabbit,33
