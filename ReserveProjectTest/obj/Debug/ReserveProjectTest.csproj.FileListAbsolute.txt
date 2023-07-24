@@ -1,0 +1,17 @@
+D:\C# projects\ReserveProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C# projects\ReserveProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C# projects\ReserveProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C# projects\ReserveProjectTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\C# projects\ReserveProjectTest\bin\Debug\ReserveProjectTest.dll
+D:\C# projects\ReserveProjectTest\bin\Debug\ReserveProjectTest.pdb
+D:\C# projects\ReserveProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C# projects\ReserveProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C# projects\ReserveProjectTest\bin\Debug\ReserveProject.dll
+D:\C# projects\ReserveProjectTest\bin\Debug\ReserveProject.pdb
+D:\C# projects\ReserveProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C# projects\ReserveProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C# projects\ReserveProjectTest\obj\Debug\ReserveProjectTest.csproj.AssemblyReference.cache
+D:\C# projects\ReserveProjectTest\obj\Debug\ReserveProjectTest.csproj.CoreCompileInputs.cache
+D:\C# projects\ReserveProjectTest\obj\Debug\ReserveProjectTest.csproj.CopyComplete
+D:\C# projects\ReserveProjectTest\obj\Debug\ReserveProjectTest.dll
+D:\C# projects\ReserveProjectTest\obj\Debug\ReserveProjectTest.pdb
