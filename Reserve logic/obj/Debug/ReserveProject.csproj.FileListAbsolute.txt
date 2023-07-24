@@ -1,0 +1,6 @@
+D:\C# projects\ReserveProject\bin\Debug\ReserveProject.pdb
+D:\C# projects\ReserveProject\obj\Debug\ReserveProject.csproj.CoreCompileInputs.cache
+D:\C# projects\ReserveProject\obj\Debug\ReserveProject.pdb
+D:\C# projects\ReserveProject\obj\Debug\ReserveProject.csproj.AssemblyReference.cache
+D:\C# projects\ReserveProject\bin\Debug\ReserveProject.dll
+D:\C# projects\ReserveProject\obj\Debug\ReserveProject.dll
